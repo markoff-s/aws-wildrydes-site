@@ -1,0 +1,5 @@
+https://xzxzxz.auth.us-east-1.amazoncognito.com
+
+https://adfs.dataart.com/federationmetadata/2007-06/federationmetadata.xml
+
+https://adfshelp.microsoft.com/MetadataExplorer/ShowFederationMetadata
